@@ -1,7 +1,11 @@
 ## Notas de aula referentes ao módulo do curso github da WoMakersCode
 
 
-### nota1
-pesquisar sobr emarkdown
+### instalação do git
+pesquisar sobre markdown
 
-### nota2
+### configuração do git
+
+
+### comandos
+
